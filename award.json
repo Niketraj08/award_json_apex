@@ -1488,3 +1488,4 @@
         "prize": "$600"
     }
 ]
+// json format for awards and placements in various tournaments, including date, placement, tier, tournament name, team name, and prize amount.
